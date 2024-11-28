@@ -15,13 +15,13 @@ The **Blinkit Sales Dashboard** provides an in-depth analysis of key business me
 ### ✨ **Business Requirement**  
 To evaluate Blinkit’s sales performance and optimize its strategies, various KPIs and data visualizations were used to uncover actionable insights.  
 
-### **KPI Metrics:**  
+#### **KPI Metrics:**  
 - **Total Sales:** The revenue generated from items sold.  
 - **Average Sales:** Revenue per transaction.  
 - **Number of Items:** Count of items sold across categories.  
 - **Average Rating:** Customer satisfaction measured through reviews.  
 
-### **Visualization Goals:**  
+#### **Visualization Goals:**  
 1. **Total Sales by Fat Content:**  
    - **Objective:** Analyze the impact of fat content on sales performance.  
    - **Chart Type:** Donut Chart.  
