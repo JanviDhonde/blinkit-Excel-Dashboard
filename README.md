@@ -63,9 +63,7 @@ To evaluate Blinkit’s sales performance and optimize its strategies, various K
 
 
 ### 🖼️ **Dashboard Preview**  
-
-
-
+![Dashboard Preview](blinkitDashboard.png)
 
 ### 🔍 **Insights Uncovered**  
 📊 **Fat Content’s Influence:** Regular fat items contribute 66% of total sales.  
